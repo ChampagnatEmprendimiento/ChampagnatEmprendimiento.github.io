@@ -28,16 +28,23 @@ body{
 	text-align: center;
 }
 .texto h2{
-	font-family: 'Howell Rode', sans-serif;
+	font-family: 'Sweet Apricot', sans-serif;  
 	font-size: 350%;
 }
 .texto{
 	margin: 10px 30px 0px 0px;
 }
+.original{
+	height: 158px;
+    width: 500px;
+}
+.phone{
+	display: none;
+}
 .mosaico{
 	width: 100%;
 }
-.mosaico img{
+.mosaicoimg{
 	padding: 10px 10px 10px 10px;
 	width:320px;
 	height:400px;
@@ -46,7 +53,7 @@ body{
 }
 .opcion{
 	margin: -80px 250px 0px 250px;
-    font-family: 'Howell Rode', sans-serif;
+    font-family: 'Sweet Apricot', sans-serif; 
     font-size: 50px;
 }
 .pie{
@@ -107,15 +114,50 @@ footer img{
 /*-----Responsive design--------------------*/
 @media only screen and (min-width:320px) and (max-width:480px){
 
-main{
-	width: 400%;
-}	
+
+body {
+	width: 1280px;
+}
 
 .navbar{
-	width: 500%;
+    height: 125px;
+}
+.navbar p{
+    font-size: 120px;
+}
+.navbar img{
+	width: 195px;
+    height: 195px;
+    border-radius: 120px;
+}
+.texto h2{
+	font-size: 100px;
+    margin: 0px;
+}
+.texto p{
+	font-size: 40px;
+}
+.phone{
+	display: flex;
+    width: 395px;
+    height: 395px;
+    margin: 60px 0px;
+}
+.original{
+	display: none;
+}
+.opcion h1 ,.opcion li{
+	font-size: 100px;
+    margin: 0px;
+}
+.school img{
+	margin: -40px -120px 0px;
+}
+#sugerencia{
+	margin: 0px -30px 0px;
 }
 footer{
-	width: 500%;
+	
 }
 
 }
