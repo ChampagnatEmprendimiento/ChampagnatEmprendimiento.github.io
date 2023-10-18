@@ -224,20 +224,20 @@ footer img{
 	margin: 15px 0px;
 }
 }
-@media only screen and (min-width:1440px) and (max-width:2560px){
+@media only screen and (min-width:1440px) and (max-width:1912px){
 
 body {
 	width: 510px;
 }
 main{
-	width: 2620px;
+	width: 1889px;
 }	
 main p{
-	font-size: 40px;
+	font-size: 30px;
 }
 .navbar{
     height: 125px;
-    width: 513%;
+    width: 370%;
 }
 .navbar p{
     font-size: 120px;
@@ -246,6 +246,9 @@ main p{
 	width: 195px;
     height: 195px;
     border-radius: 120px;
+}
+.cuerpo {
+    padding: 50px 50px 10px 50px;
 }
 .texto img{
 	height: 260px;
@@ -257,19 +260,21 @@ main p{
 }
 .school img{
 	width: 590px;
-    margin: 0px 170px;
+}
+#sugerencia {
+    width: 565px;
 }
 #form1{
 	width: 815px;
 }
 label{
-	font-size: 40px;
+	font-size: 30px;
 }
 footer{
-	width: 513%;
+	width: 370%;
 }
 footer div{
-	margin: 0px 1133px;
+	margin: 0px 842px;
 }
 }
 
