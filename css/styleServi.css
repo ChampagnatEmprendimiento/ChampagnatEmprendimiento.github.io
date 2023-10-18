@@ -236,17 +236,55 @@ footer{
 }
 
 }
-@media only screen and (min-width:768px) and (max-width:960px){
+@media only screen and  (min-width:768px) and (max-width:1024px){
 
-main{
-	width: 370%;
-    margin: 0px 65px
+body {
+	width: 545px;
+}
+main {
+    width: 2200px;
+    padding: 0px 250px;
+}
+main p{
+	font-size: 40px;
+}
+main h2{
+	font-size: 40px;
 }
 .navbar{
-	width: 500%;
+    height: 125px;
+    width: 500%;
+}
+.navbar p{
+    font-size: 120px;
+}
+.navbar img{
+	width: 195px;
+    height: 195px;
+    border-radius: 120px;
+}
+.navbar i {
+    margin: 26px 8px 0px 1551px;
+    font-size: 90px;
+}
+#muestra3v1,#muestra3v2{
+	padding: 0px 260px;
+}
+.pagina {
+    font-size: 60px;
+    padding: 10px 830px;
 }
 footer{
 	width: 500%;
+}
+footer a{
+	font-size: 30px;
+}
+footer div{
+	padding: 0px 615px;
+}
+footer img{
+	margin: 15px 0px;
 }
 
 }
