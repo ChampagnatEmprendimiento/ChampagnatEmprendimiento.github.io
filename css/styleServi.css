@@ -288,6 +288,53 @@ footer img{
 }
 
 }
+@media only screen and (min-width:1440px) and (max-width:1912px){
+
+body {
+	width: 510px;
+}
+main{
+	width: 1889px;
+}	
+main p{
+	font-size: 30px;
+}
+.navbar{
+    height: 125px;
+    width: 370%;
+}
+.navbar p{
+    font-size: 120px;
+}
+.navbar img{
+	width: 195px;
+    height: 195px;
+    border-radius: 120px;
+}
+.navbar i {
+    margin: 26px 8px 0px 768px;
+    font-size: 90px;
+}
+main h2{
+	font-size: 40px;
+}
+
+#muestra3v1,#muestra3v2{
+	padding: 0px 260px;
+}
+
+.pagina {
+    padding: 10px 768px;
+}
+
+footer{
+	width: 370%;
+}
+footer div{
+	margin: 0px 842px;
+}
+}
+
 
 
 
