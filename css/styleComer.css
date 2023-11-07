@@ -404,7 +404,7 @@ main{
 .pagina {
     display: flex;
     font-size: 40px;
-    padding: 0px;
+    padding: 0% 5%;
 }
 footer div{
 	margin: 0px;
