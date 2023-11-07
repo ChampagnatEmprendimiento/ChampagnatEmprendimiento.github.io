@@ -114,6 +114,10 @@ footer img{
 /*-----Responsive design--------------------*/
 @media only screen and (min-width:220px) and (max-width:750px){
 
+main{
+	padding:0px 20px;
+}
+
 .navbar{
     height: 42px;
 }
