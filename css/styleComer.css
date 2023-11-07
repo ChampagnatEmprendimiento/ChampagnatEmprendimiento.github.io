@@ -406,6 +406,21 @@ main{
     font-size: 40px;
     padding: 0% 1%;
 }
+.anuncio21 {
+    display: block;
+    border-bottom: solid;
+    padding: 0px 0px 0px 0px;
+}
+.text21 h2 {
+    font-size: 70px;
+    padding: 0px 0px 0px 0px;
+    margin: 5px;
+}
+.anuncio21 img {
+    width: 332px;
+    height: 450px;
+    margin: 0px 0px 0px 0px;
+}
 footer {
 	width: 114%;
 }
