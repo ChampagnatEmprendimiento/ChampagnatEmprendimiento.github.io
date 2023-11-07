@@ -316,7 +316,7 @@ main{
 }
 .navbar{
     height: 42px;
-    width: 115%;
+    width: 101%;
 }
 .navbar p{
     font-size: 35px;
@@ -379,7 +379,7 @@ main{
     padding: 10px 10px;
 }
 .holistica img {
-    width: 36%;
+    width: 33%;
     height: 30%;
 }
 .anuncio3{
@@ -398,16 +398,16 @@ main{
     padding: 0px 0px 0px 0px;
 }
 .muestras3 img {
-    width: 35%;
+    width: 33%;
     height: 30%;
 }
 .pagina {
     display: flex;
     font-size: 40px;
-    padding: 0% 5%;
+    padding: 0% 1%;
 }
 footer {
-	width: 115%;
+	width: 101%;
 }
 footer div{
 	margin: 0px;
