@@ -316,7 +316,7 @@ main{
 }
 .navbar{
     height: 42px;
-    width: 130%;
+    width: 115%;
 }
 .navbar p{
     font-size: 35px;
@@ -405,6 +405,9 @@ main{
     display: flex;
     font-size: 40px;
     padding: 0% 5%;
+}
+footer {
+	width: 115%;
 }
 footer div{
 	margin: 0px;
