@@ -338,28 +338,29 @@ main{
     border-bottom: solid;
     padding: 20px 10px 50px 10px;
 }
-.text{
-	padding: 0px;
+.text {
+    padding: 0px 22px 0px 0px;
 }
 .text p {
     font-size: 20px;
     margin: 0px 0px;
+    width: 248px;
 }
 .muestra {
     display: block;
     margin: 0px 0px 0px -23px;
 }
 .muestra img {
-    width: 150px;
+    width: 140px;
 }
 #croche {
     width: 100px;
-    padding: 0px 0px 0px 62px;
+    padding: 0px 0px 0px 0px;
 }
 #img2 {
     height: 230px;
-    width: 150px;
-    margin: 0px 0px 0px 62px;
+    width: 140px;
+    margin: 0px 0px 0px 0px;
 }
 .div1er {
     display: block;
@@ -370,7 +371,7 @@ main{
 }
 .text2 {
     padding: 0px 0px;
-    width: 400px;
+    width: 360px;
     font-size: 20px;
 }
 .holistica {
