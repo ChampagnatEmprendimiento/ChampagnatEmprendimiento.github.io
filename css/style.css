@@ -116,50 +116,82 @@ footer img{
 
 
 body {
-	width: 1280px;
+	width: 313px;
 }
 
 .navbar{
-    height: 125px;
+    height: 42px;
 }
 .navbar p{
-    font-size: 120px;
+    font-size: 35px;
+    margin-top: 8px;
 }
 .navbar img{
-	width: 195px;
-    height: 195px;
+	width: 90px;
+    height: 90px;
+    margin: -15px 0px 0px -10px;
     border-radius: 120px;
 }
+.cuerpo {
+    padding: 52px 1px;
+    display: block;
+    text-align: center;
+    width: 310px;
+}
+.texto{
+	padding: 0px;
+}
 .texto h2{
-	font-size: 100px;
-    margin: 0px;
+	font-size: 50px;
+    margin: 0px 0px 0px -15px;
 }
 .texto p{
-	font-size: 40px;
+	font-size: 20px;
 }
 .phone{
 	display: flex;
-    width: 395px;
-    height: 395px;
-    margin: 60px 0px;
+    width: 293px;
+    height: 290px;
+    margin: 9px 8px;
+}
+.mosaicoimg {
+    width: 210px;
+    height: 320px;
 }
 .original{
 	display: none;
 }
-.opcion h1 ,.opcion li{
-	font-size: 100px;
+.pie {
+    padding: 0px 1px;
+    display: block;
+    text-align: center;
+    width: 310px;
+}
+.opcion{
+	margin: -40px 0px 0px 0px;
+    font-size: 37px;
+}
+.opcion h1,a{
     margin: 0px;
 }
-.school img{
-	margin: -80px -120px 30px;
-	width: 450px;
-	height: 335px;
+#formulario, #sugerencia {
+    margin: 0px 0px;
+    padding: 0px; 
 }
-#sugerencia{
-	margin: 0px -30px 0px;
+#solicitud1, #solicitud2 {
+    display: block;
+    text-align: left;
+    padding: 5px;
 }
-footer{
-	
+.school img {
+    width: 308px;
+    height: 265px;
+}
+#textsugerencia {
+    margin: 0px 0px 0px 0px;
+}
+footer div{
+	margin: 0px;
 }
 
 }
