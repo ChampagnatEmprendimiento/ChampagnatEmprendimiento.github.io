@@ -312,10 +312,11 @@ footer p{
 @media only screen and (min-width:220px) and (max-width:750px){
 
 main{
-	padding:0px 30px 0px 0px;
+	padding:0px 0px 0px 20px;
 }
 .navbar{
     height: 42px;
+    width: 130%;
 }
 .navbar p{
     font-size: 35px;
