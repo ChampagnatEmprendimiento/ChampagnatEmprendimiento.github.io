@@ -114,12 +114,12 @@ footer img{
 /*-----Responsive design--------------------*/
 @media only screen and (min-width:220px) and (max-width:750px){
 
-
 body {
-	width: 313px;
+	width: 365px;
 }
-
-.navbar{
+main{
+	padding: 0px 10px;
+}.navbar{
     height: 42px;
 }
 .navbar p{
