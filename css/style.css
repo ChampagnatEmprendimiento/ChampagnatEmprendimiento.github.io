@@ -115,11 +115,9 @@ footer img{
 @media only screen and (min-width:220px) and (max-width:750px){
 
 body {
-	width: 415px;
+	width: 400px;
 }
-main{
-	padding: 0px 30px;
-}.navbar{
+.navbar{
     height: 42px;
 }
 .navbar p{
