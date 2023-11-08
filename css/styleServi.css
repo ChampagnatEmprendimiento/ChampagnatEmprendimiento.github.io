@@ -98,7 +98,6 @@ body p{
 
 }
 .anuncio21{
-	padding: 10px;
 	border-bottom: solid;
 	padding: 30px 80px 10px 80px;
 }
@@ -225,14 +224,166 @@ footer p{
 @media only screen and (min-width:320px) and (max-width:480px){
 
 main{
-	width: 400%;
-}	
-
-.navbar{
-	width: 420%;
+	padding:0px 0px 0px 0px;
 }
-footer{
-	width: 420%;
+.navbar{
+    height: 42px;
+    width: 105%;
+}
+.navbar p{
+    font-size: 35px;
+    margin-top: 8px;
+}
+.navbar img{
+	width: 90px;
+    height: 90px;
+    margin: -15px 0px 0px -10px;
+    border-radius: 120px;
+}
+.navbar i {
+    margin: 10px 0px 0px 15px;
+    color: black;
+    font-size: 26px;
+}
+.anuncio1 {
+    padding: 10px 0px 30px 0px;
+    text-align: center;
+    border-bottom: solid;
+}
+#panel1, #muestra1 {
+    display: block;
+}
+#muestra1 {
+    margin: 0px 0px;
+}
+#muestra1 img {
+    width: 343px;
+    height: 343px;
+}
+.anuncio2 {
+    padding: 30px 0px;
+    text-align: center;
+    border-bottom: solid;
+}
+.anuncio2 div {
+    display: block;
+}
+.anuncio2 img {
+    width: 326px;
+    margin: 0px;
+}.anuncio2 div p {
+    padding: 0px 50px;
+}
+.anuncio3 {
+    padding: 20px 0px;
+    border-bottom: solid;
+}
+ #muestra3v1, #muestra3v1 {
+    display: block;
+}
+#text3 p {
+    padding: 0px 0px;
+}
+#torta {
+    padding: 0px 30px;
+    width: 290px;
+    height: 250px;
+}
+.anuncio3 div img {
+    width: 146px;
+    height: 146px;
+}
+#muestra3v2 img {
+    padding: 0px 15px;
+}
+.anuncio21 {
+    border-bottom: solid;
+    padding: 30px 10px;
+}
+#text21 {
+    display: block;
+    text-align: center;
+}
+#text21 img {
+    width: 340px;
+    height: 340px;
+}
+#contacto21 {
+    text-align: center;
+    padding: 10px 0px;
+}
+.anuncio22 {
+    border-bottom: solid;
+    padding: 20px 0px;
+}
+#text22 {
+    text-align: center;
+    display: block;
+    padding: 0px;
+}
+#dona1 {
+    width: 277px;
+    padding: 0px 10px;
+}
+#muestra22 {
+    padding: 0px 0px;
+    display: flex;
+}
+#muestra22 img {
+    height: 123px;
+}
+.anuncio23 {
+    display: block;
+    border-bottom: solid;
+    text-align: center;
+    padding: 10px 0px;
+}
+#texto23 {
+    display: block;
+}
+#muestra23 img {
+    width: 335px;
+    height: 305px;
+}
+.anuncio24 {
+    border-bottom: solid;
+    padding: 0px 0px;
+    text-align: center;
+}
+#texto24, #muestra24 {
+    display: block;
+}
+#muestra24 img {
+    width: 355px;
+    height: 320px;
+}
+.anuncio25 {
+    border-bottom: solid;
+    padding: 0px 0px;
+    text-align: center;
+}
+#texto25, #muestra25 {
+    display: block;
+}
+#muestra25 img {
+    width: 355px;
+    height: 280px;
+    margin: 0px 0px;
+}
+.pagina {
+    display: flex;
+    font-size: 40px;
+    padding: 0% 0%;
+}
+.pagina a {
+	padding: 0% 3%;
+}
+
+footer {
+	width: 105%;
+}
+footer div{
+	margin: 0px;
 }
 
 }
