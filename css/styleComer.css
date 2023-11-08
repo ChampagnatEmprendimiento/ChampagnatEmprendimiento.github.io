@@ -316,7 +316,7 @@ main{
 }
 .navbar{
     height: 42px;
-    width: 114%;
+    width: 105%;
 }
 .navbar p{
     font-size: 35px;
@@ -401,11 +401,6 @@ main{
     width: 33%;
     height: 30%;
 }
-.pagina {
-    display: flex;
-    font-size: 40px;
-    padding: 0% 1%;
-}
 .anuncio21 {
     display: block;
     border-bottom: solid;
@@ -424,8 +419,120 @@ main{
 .text21 p {
     padding: 0px 0px 0px 0px;
 }
+.text22 {
+    display: block;
+    margin: 0px;
+}
+.text22 h2 {
+    font-size: 65px;
+    padding: 20px 0px 0px 25px;
+    margin: 0px;
+}
+.text22 p {
+    font-size: 18px;
+    text-align: center;
+    margin:0px; 
+}
+.text22 img {
+    width: 355px;
+}
+#panel1 img {
+    width: 118px;
+    height: 130px;
+}
+#panel2 img {
+    width: 88.4px;
+    height: 117px;
+}
+.anuncio23 {
+    border-bottom: solid;
+    padding: 0px 0px 50px 35px;
+}
+.anuncio23 img {
+    width: 265px;
+}
+.anuncio23 div{
+	display: block;
+}
+.anuncio31 {
+    padding: 0px;
+    border-bottom: solid;
+}
+#panelauto1, #panelauto2, #text31 {
+    display: block;
+}
+.anuncio31 h2 {
+    font-size: 60px;
+    margin: 0px;
+    padding: 6px 0px 0px 40px;
+}
+#text31 img {
+    width: 355px;
+}
+#panelauto1 img, #panelauto2 img {
+    width: 354px;
+    height: 250px;
+}
+.anuncio32 {
+    display: block;
+    padding: 0px;
+    border-bottom: solid;
+}
+#calsado {
+    width: 370px;
+    padding: 0px;
+}
+#muestra32 img {
+    width: 365px;
+}.anuncio33 {
+    padding: 0px 0px 40px 0px;
+    border-bottom: solid;
+}
+#text33, #muestra33 {
+    display: block;
+}
+.anuncio33 h2 {
+    font-size: 60px;
+    margin: 0px;
+    padding: 0px 0px 0px 60px;
+}
+#tenis {
+    width: 350px;
+    padding: 0px 0px 0px 0px;
+}
+#muestra33 img {
+    width: 353px;
+}.anuncio34 {
+    display: block;
+    padding: 0px 0px;
+    border-bottom: solid;
+}
+.anuncio34 h2 {
+    font-size: 60px;
+    margin: 0px;
+    padding: 0px 0px 0px 20px;
+}
+#text34 div {
+    display: flex;
+}
+#esika img{
+	width: 145px;
+}
+#muestra34 img {
+    width: 358px;
+    height: 355px;
+}
+.pagina {
+    display: flex;
+    font-size: 40px;
+    padding: 0% 0%;
+}
+.pagina a {
+	padding: 0% 3%;
+}
+
 footer {
-	width: 114%;
+	width: 105%;
 }
 footer div{
 	margin: 0px;
